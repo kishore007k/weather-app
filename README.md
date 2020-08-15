@@ -1,3 +1,11 @@
+## Weather App 🌦
+
+<br/>
+
+![Weather App](https://user-images.githubusercontent.com/34863222/90316162-ee2ac180-df3d-11ea-8937-abf77c4a28c1.gif)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
